@@ -1,3 +1,5 @@
 # UrlShortener
 
-This is the Onsign Url shortner challenge
+This is a simple Url shortner WebApp 
+Made with Django 
+
