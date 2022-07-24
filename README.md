@@ -1,5 +1,5 @@
 # UrlShortener
 
-This is a simple Url shortner WebApp 
+A simple url shortener 
 Made with Django 
 
